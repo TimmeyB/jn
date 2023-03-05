@@ -1,0 +1,14 @@
+<!-- HTML -->
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+<form>
+    <input type="search" id="search" placeholder="Search Bible Verse..." />
+    <input type="submit" value="Go" />
+</form>
+</body>
+<script src="index.js"></script>
+</html>
